@@ -1,0 +1,14 @@
+[project]
+name = "typely"
+version = "0.1.0"
+description = "Runtime type validation for Python — lightweight, fast, decorator-based"
+license = {text = "MIT"}
+requires-python = ">=3.10"
+authors = [{name = "Teja"}]
+dependencies = []
+
+[project.optional-dependencies]
+dev = ["pytest>=7.0", "hypothesis", "pytest-cov"]
+
+[tool.setuptools.packages.find]
+where = ["src"]

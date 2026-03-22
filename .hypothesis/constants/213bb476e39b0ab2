@@ -1,0 +1,4 @@
+# file: /Volumes/Teja_T7_M4/clawd/typely/src/typely/types.py
+# hypothesis_version: 6.151.9
+
+[' | ', '...', '0', '1', 'Any', 'Literal', 'None', '__name__', 'bool', 'dict', 'expected', 'false', 'field', 'float', 'got', 'int', 'list', 'message', 'no', 'set', 'str', 'true', 'tuple', 'value', 'yes']
