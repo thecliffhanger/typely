@@ -1,11 +1,15 @@
 # typely
 
+[![PyPI version](https://badge.fury.io/py/typely.svg)](https://pypi.org/project/typely)
+[![Python versions](https://img.shields.io/pypi/pyversions/typely.svg)](https://pypi.org/project/typely)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Runtime type validation for Python — lightweight, fast, decorator-based.
 
 ## Install
 
 ```bash
-pip install -e .
+pip install typely
 ```
 
 ## Quick Start
@@ -34,3 +38,7 @@ create_user("Alice", "30")  # TypeError: age must be int, got str
 ## License
 
 MIT
+
+---
+
+Part of the [thecliffhanger](https://github.com/thecliffhanger) open source suite.
