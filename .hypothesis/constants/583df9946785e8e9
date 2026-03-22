@@ -1,0 +1,4 @@
+# file: /Volumes/Teja_T7_M4/clawd/typely/src/typely/validate.py
+# hypothesis_version: 6.151.9
+
+['Annotated', '__annotations__', '__name__', 'expected', 'field', 'got', 'message', 'return', 'value']
