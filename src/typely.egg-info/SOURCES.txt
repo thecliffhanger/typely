@@ -13,8 +13,10 @@ src/typely.egg-info/SOURCES.txt
 src/typely.egg-info/dependency_links.txt
 src/typely.egg-info/requires.txt
 src/typely.egg-info/top_level.txt
+tests/test_adversarial.py
 tests/test_check.py
 tests/test_coerce.py
+tests/test_integration.py
 tests/test_round2.py
 tests/test_schema.py
 tests/test_types.py
